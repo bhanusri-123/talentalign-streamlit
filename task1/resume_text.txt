@@ -1,0 +1,79 @@
+VENIGALLA BHANUSRI
+bhanusri.venigalla03@gmail.com
+|
+venigalla-bhanusri
+|
++91-7569133973
+OBJECTIVE
+Computer Science undergraduate passionate about software development and machine learning.
+Looking to apply hands-on project experience in web development and predictive modeling to solve
+real-world problems in a collaborative engineering team.
+EDUCATION
+B.Tech. (CSE)
+9.07/10
+Shri Vishnu Engineering College for Women, Bhi-
+mavaram
+2022 – 2026
+Higher Secondary
+91%
+Sri Bhavishya Junior College, Vijayawada
+2020 – 2022
+Secondary
+74%
+NSM Public School, Vijayawada
+2019 – 2020
+PROJECTS
+Vishnu Pharmacy Project
+• Created a medicine lookup system for students
+and faculty.
+• GUI built with Python and MySQL backend.
+• Tools: Python, MySQL, Visual Studio, Git-
+Lab
+Fitness Management System
+• Web app for gym member registration, trainer
+allocation, and schedules.
+• Developed secure login, dashboards, and real-
+time features.
+• Tools: React.js, Node.js, Express.js, MySQL
+Liver Cirrhosis Prediction using ML
+• Developed an AI-based system to predict cir-
+rhosis using KNN, XGBoost, RF.
+• Integrated Flask UI for real-time feedback and
+clinical usability.
+• Tools: Python, Flask, pandas, seaborn, scikit-
+learn
+Store Sales Forecasting using ML
+• Developed a predictive model to forecast store
+sales by analyzing historical sales data and iden-
+tifying seasonal trends.
+• The model is built using ARIMA and SARIMA
+algorithms which accurately gives predicted fu-
+ture sales on a daily basis.
+• Tools: Python, pandas, matplotlib
+TECHNICAL SKILLS
+• Languages: Python, C, HTML, CSS, MySQL
+• Developer Tools: Github, VS Code, MS Of-
+fice
+• Soft Skills: Teamwork, Communication, Adapt-
+ability
+• Areas of Interest:
+AI, Machine Learning,
+Web Development
+CERTIFICATIONS
+• IBM – Machine Learning (Coursera)
+• Google – Foundations of Cybersecurity (Cours-
+era)
+• Japanese Language – Global Language Solu-
+tions
+ACHIEVEMENTS
+• 1st Place – Poster Presentation: Violence Against
+Women
+• Finalist – College Ideathon (2023)
+• Smart India Hackathon – Developed NVC (Non-
+verbal Communication) Detection System for
+Communication Enhancement.
+EXTRA-CURRICULAR ACTIVITIES
+• Coordinator – Psychology Club, SVECW
+• Participant – Coding and Design Hackathons
+• Recreational Sports – Swimming and Badminton
+1
